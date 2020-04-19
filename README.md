@@ -1,7 +1,11 @@
 # php-juggling-brute-force
+
 247ctf.com's web challenge - Compare The Pair - PHP Juggling challenge
+
+
 `Description: 
 Can you identify a way to bypass our login logic? MD5 is supposed to be a one-way function right?`
+
 
 ```php
 247CTF{76fbce3909b3129536bb396fea3a9879} 
